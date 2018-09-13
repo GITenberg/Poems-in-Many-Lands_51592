@@ -1,0 +1,27 @@
+_repo: Poems-in-Many-Lands_51592
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Rodd, Rennell
+    aliases:
+    - Rennell, James Rennell Rodd, Baron
+    - Rodd, James Rennell
+    birthdate: 1858
+    deathdate: 1941
+    gutenberg_agent_id: '37970'
+    url: http://www.gutenberg.org/2009/agents/37970
+description: ''
+gutenberg_issued: '2016-03-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51592'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'English poetry -- 19th century'
+- GITenberg
+title: Poems in Many Lands
+url: http://www.gutenberg.org/ebooks/51592
